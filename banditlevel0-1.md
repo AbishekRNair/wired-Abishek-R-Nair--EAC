@@ -7,9 +7,9 @@
 *1.Connecting to sever* <br>
 
 Used the SSH command to login to the server with the provided password<br>
-Command: ssh bandit1@bandit.labs.overthewire.org -p 2220<br>
+Command: ssh bandit0@bandit.labs.overthewire.org -p 2220<br>
 
-*2.Open the readme file*<br>
+*2.Get the Password for the next level from - directory*<br>
 Command: cat readme<br>
 copy the text as it is the password for the next level
 
