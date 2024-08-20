@@ -11,7 +11,7 @@ owned by group bandit6
 *1.Connecting to sever* <br>
 
 Used the SSH command to login to the server with the copied password<br>
-Command: ssh bandit3@bandit.labs.overthewire.org -p 2220<br>
+Command: ssh bandit6@bandit.labs.overthewire.org -p 2220<br>
 
 *2.find the file which has the password* <br>
 
