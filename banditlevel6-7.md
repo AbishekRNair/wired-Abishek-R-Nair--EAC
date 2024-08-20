@@ -17,7 +17,7 @@ Command: ssh bandit3@bandit.labs.overthewire.org -p 2220<br>
 
 Command: find / -type f -user bandit7 -group bandit6 -size 33c<br>
 
-*3.Get the Password for the next level from hidden file*<br>
+*3.Get the Password *<br>
 Command: cat /var/lib/dpkg/info/bandit7.password <br>
 copy the text as it is the password for the next level
 
