@@ -7,7 +7,7 @@
 *1.Connecting to sever* <br>
 
 Used the SSH command to login to the server with the copied password<br>
-Command: ssh bandit3@bandit.labs.overthewire.org -p 2220<br>
+Command: ssh bandit5@bandit.labs.overthewire.org -p 2220<br>
 
 *2.Change directory to inhere and find the human-readable, 1033 bytes in size,not executable* <br>
 
