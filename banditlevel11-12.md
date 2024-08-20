@@ -10,10 +10,7 @@ Used the SSH command to login to the server with the copied password<br>
 Command: ssh bandit11@bandit.labs.overthewire.org -p 2220<br>
 
 *2.find the password* <br>
-
-Command: cat data.txt<br>
-copy the text and past it in https://gchq.github.io/CyberChef/ to get the password
-
+Command:cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'<br>
 
 *3.Get the Password*<br>
 copy the text as it is the password for the next level
