@@ -1,4 +1,4 @@
-#**Bandit level 4 write-up**<br>
+#**Bandit level 6 write-up**<br>
 
 ##*Objective*:<br>The password for the next level is stored in a file called - located in the home directory.<br>
 
